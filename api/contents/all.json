@@ -2,21 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-10T22:13:40.007485Z",
+      "created": "2022-06-10T22:21:14.690555Z",
       "format": null,
-      "last_modified": "2022-06-10T22:12:30.166999Z",
-      "mimetype": "text/csv",
-      "name": "indeed_da_jobs.csv",
-      "path": "indeed_da_jobs.csv",
-      "size": 630277,
-      "type": "file",
+      "last_modified": "2022-06-10T22:20:04.658715Z",
+      "mimetype": null,
+      "name": "da_jobs_scraper.ipynb",
+      "path": "da_jobs_scraper.ipynb",
+      "size": 683107,
+      "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-06-10T22:13:40.007485Z",
+      "created": "2022-06-10T22:21:14.690555Z",
       "format": null,
-      "last_modified": "2022-06-10T22:13:37.827480Z",
+      "last_modified": "2022-06-10T22:21:13.018561Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-10T22:13:40.007485Z",
+  "created": "2022-06-10T22:21:14.690555Z",
   "format": "json",
-  "last_modified": "2022-06-10T22:13:40.007485Z",
+  "last_modified": "2022-06-10T22:21:14.690555Z",
   "mimetype": null,
   "name": "",
   "path": "",
